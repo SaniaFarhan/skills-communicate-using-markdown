@@ -12,4 +12,3 @@ var myVar = "Hello, world!";
 - [ ] Step 2
 - [ ] Step 3
 - [X] Step Complete
-  - 
